@@ -27,7 +27,7 @@ offImg = PhotoImage(file="offbutton.png")
 #MAIN FRAME AND LABEL FOR SWAPNIL
 frame1=Frame(root,bg="red",borderwidth=10)
 frame1.pack(side=TOP,fill=X)
-MAIN=Label(frame1,font="Helvetica 25 bold",fg="violet",relief="sunken",text="Cricket Score Viewer by SWAPNIL")
+MAIN=Label(frame1,font="Helvetica 25 bold",fg="violet",relief="sunken",text="Cricket Score Viewer by Good Boy")
 MAIN.pack(fill=X,side="top")
 
 
